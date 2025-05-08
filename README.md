@@ -47,9 +47,6 @@ there is a problem parsing some strange syntax you can just look at the AST pars
 a piece of code is not producing the expected results than you look at the code that 
 interprets the AST.
 
-# Team Members
-1. Sunad Suhas
-2. Eshan Naik
-3. Ishita Datta
+
 
 
